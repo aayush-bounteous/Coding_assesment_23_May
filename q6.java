@@ -2,7 +2,7 @@
 //q-6. Remove Nth Node From End of List
 //Given a linked list, remove the nth node from the end and return its head.
 
-public class Main
+public class q6
 {
     public class node{
         int data;
