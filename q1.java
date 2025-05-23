@@ -1,7 +1,7 @@
 //q1 1. Two Sum II - Input array is sorted
 //Given a sorted array of integers, return the indices of the two numbers such that they add up to a specific target.
 import java.util.*;
-public class Main
+public class q1
 {
     public static void bruteforce(int[] arr, int tar, int size){
         for(int i=0;i<size-1;i++){
