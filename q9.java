@@ -6,7 +6,7 @@
 // 2. 50221 - 01225
 
 import java.util.*;
-public class Main
+public class q9
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
